@@ -8,8 +8,8 @@ Include differences in return value and chain-ablilty
 
 method | Differences | Similarities
 -- | -- | --
-`push` | |
-`<<` (compare to`push`) | |
-`pop` | |
-`unshift` | |
-`shift` | |
+`push` .push | similar | similar
+`<<` (compare to`push`)  | |
+`pop` removes from Array| |
+`unshift` like pop, but other side of array| |
+`shift` like push, other side of the array| |

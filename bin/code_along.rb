@@ -1,5 +1,9 @@
 # Create an empty array, `lit_array`, using the literal syntax
 
+lit_array = ["","","",""]
+
 # Create an array, `constr_array`, using the constructor syntax, initialized with 5 elements
+
+const_array = Array.new(4, "mac")
 
 # Create an array, `ten_false_array`, initialized with 10 `false` elements
